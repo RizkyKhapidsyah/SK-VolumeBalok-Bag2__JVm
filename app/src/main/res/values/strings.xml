@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SK-VolumeBalok__JVm</string>
+    <string name="TextView_Panjang">Panjang</string>
+    <string name="TextView_Lebar">Lebar</string>
+    <string name="TextView_Tinggi">Tinggi</string>
+    <string name="Button_Hitung">Hitung</string>
+    <string name="TextView_Hasil">Hasil</string>
+</resources>
